@@ -1,0 +1,13 @@
+LoginPage:
+  username: /html/body/form/table/tbody/tr/td/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[1]/td[2]/div/input
+  password: /html/body/form/table/tbody/tr/td/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[2]/td[2]/div/input
+  submit: //*[@id="in1"]
+  yanzen: topFrame
+  yanzen1: /html/body/form/table/tbody/tr[2]/td/table/tbody/tr/td[1]/table/tbody/tr/td[2]/div
+AddCustomer:
+  customr_frame_name: mainFrame
+  customer_new: /html/body/form/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr/td[5]/table/tbody/tr/td/div/a
+  customer_add: /html/body/form/table/tbody/tr[1]/td/table/tbody/tr/td[2]/table/tbody/tr/td[4]/input
+  username: /html/body/form/table[1]/tbody/tr[2]/td[2]/input
+  userjob: /html/body/form/table[1]/tbody/tr[3]/td[2]/input
+  email: /html/body/form/table[1]/tbody/tr[4]/td[4]/input
